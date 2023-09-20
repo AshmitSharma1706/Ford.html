@@ -1,0 +1,104 @@
+<html lang="en">
+  <head>
+    <title>Ford Cars</title>
+    <base href="/media/images/" />
+    <style>
+      p {
+        color: antiquewhite;
+      }
+      h1 {
+        color: whitesmoke;
+      }
+      h4 {
+        color: aliceblue;
+      }
+    </style>
+  </head>
+  <body>
+    <table bgcolor="black" width="100%">
+      <tr bgcolor="black">
+        <td>
+          <img src="FordLogo1.jpg" width="100px" />
+        </td>
+        <th>
+          <a href="#"><font color="white">Home</font></a>
+        </th>
+        <th>
+          <a href="#"><font color="white">About</font></a>
+        </th>
+        <th>
+          <a href="#"><font color="white">Cars</font></a>
+        </th>
+        <th>
+          <a href="#"><font color="white">Contact</font></a>
+        </th>
+      </tr>
+    </table>
+    <table bgcolor="black" width="100%">
+      <tr>
+        <td colspan="5">
+          <img src="FordEndeavour2.webp" width="1240" height="600" />
+        </td>
+      </tr>
+      <tr>
+        <td colspan="5">
+          <h1 align="center"><i>Presenting The Ford Endeavour</i></h1>
+          <hr align="center" width="50%" height="5" />
+          <p align="center">
+            The Ford Endeavour has 1 Diesel Engine on offer. The Diesel engine
+            is 1996 cc . It is available with Automatic transmission.<br />Depending
+            upon the variant and fuel type the Endeavour has a mileage of 12.4
+            to 13.9 kmpl . The Endeavour is a 7 seater<br />
+            4 cylinder car and has length of 4903mm, width of 1869mm and a
+            wheelbase of 2850mm.
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <img src="FordEverest.jpg" width="650" height="400" />
+        </td>
+        <td colspan="3">
+          <h1 align="center"><i>The Ford Everest</i></h1>
+          <hr align="center" width="50%" height="5" />
+          <p align="center">
+            The Ford Everest is a mid-size SUV produced by Ford Motor Company
+            since 2003.<br />
+            Developed and destined mainly for the Asia-Pacific region with
+            production centered in <br />Thailand, the first-generation Everest
+            is based on the Mazda-based Ford Ranger pickup <br />truck, while
+            the following generations is based on the globally-marketed T6
+            Ranger.
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="4">
+          <h1 align="center"><i>The Ford Mustang</i></h1>
+          <hr align="center" width="50%" height="5" />
+          <p align="center">
+            Ford Mustang price starts at Rs. 74.61 Lakh. The price of Petrol
+            variant for Mustang is Rs. 74.61 Lakh.Mustang
+            <br />
+            is available in 1 variants. All the variants are Automatic. Mustang
+            is offered in 6 colours: Absolute Black,Ingot<br />
+            Silver, Oxford White, Race Red, Triple Yellow Tri-coat and Magnetic.
+            However, some of these colours are available in specific versions.
+          </p>
+        </td>
+        <td><img src="FordMustang.webp" / width="500" height="400"></td>
+      </tr>
+      <tr>
+        <td>
+          <font color="white"><b>Email</b><br />contactus@gmail.com</font>
+        </td>
+        <td colspan="2" align="center">
+          <font color="white"><b>Contact:</b><br />0123456789</font>
+        </td>
+        <td colspan="2" align="right">
+          <font color="white"><b>Address</b><br />Bhopal(M.P.)</font>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
